@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-Experienced Frontend Developer with a demonstrated history of working having 2+ years of hands on professional experience efficiently coding websites and applications using modern HTML, CSS and Javascript along with React.JS.
+Experienced Frontend Developer with a demonstrated history of working having 3+ years of hands on professional experience efficiently coding websites and applications using modern HTML, CSS and Javascript along with React.JS.
 Instituting new technologies and building easy to use and user-friendly websites is truly a passion of mine. I actively seek out new libraries and stay up-to-date on industry trends and advancements.
 
 - 🔭 I’m currently working as a **Frontend Developer @ OYO ROOMS**
