@@ -1,11 +1,11 @@
 ## Hello World! 👋
 
-Experienced Frontend Developer with a demonstrated history of working having 3+ years of hands on professional experience efficiently coding websites and applications using modern HTML, CSS and Javascript along with React.JS.
+Experienced Software Developer with a demonstrated history of working having 6+ years of hands on professional experience efficiently coding websites and applications using modern HTML, CSS and Javascript along with React.JS, Next.js and backend on Node.js
 Instituting new technologies and building easy to use and user-friendly websites is truly a passion of mine. I actively seek out new libraries and stay up-to-date on industry trends and advancements.
 
-- 🔭 I’m currently working as a **Frontend Developer @ Inshorts | ex-OYO ROOMS**
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **Frontend Development**
+- 🔭 I’m currently working as a **Sofware Development Engineer - 3 @ Innovaccer | ex-Inshorts | ex-OYO ROOMS**
+- 🌱 I’m currently learning **Cybersecurity**
+- 💬 Ask me about **Frontend Development & backend development**
 - 😄 Pronouns: **He | Him**
 - 📫 How to reach me: Ping me over slack or reach me out 9717959550
 
